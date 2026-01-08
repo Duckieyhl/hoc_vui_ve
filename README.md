@@ -1,6 +1,6 @@
 # hoc_vui_ve
 
-echo "# hoc_vui_ve" >> README.md
+echo "# hoc_vui_ve" >> README.md    
 git init <!-- khới tạo init -->
 git add README.md <!-- cho vào Staging Area -->
 git commit -m "first commit" <!-- cho vào Local Res để push>
